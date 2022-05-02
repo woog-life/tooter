@@ -1,4 +1,4 @@
-FROM racket/racket:8.4
+FROM racket/racket:8.5
 
 WORKDIR /usr/app
 
